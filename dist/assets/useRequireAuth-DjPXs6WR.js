@@ -1,0 +1,1 @@
+import{n as e,o as t}from"./index-D4RNSXyf.js";function n(){let{user:n,loading:r}=e(),[i,a]=t();return{user:n,loading:r,redirectToLogin:()=>{a(`/connexion?redirect=${encodeURIComponent(i)}`)}}}export{n as t};

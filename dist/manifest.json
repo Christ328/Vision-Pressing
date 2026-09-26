@@ -1,0 +1,27 @@
+{
+  "name": "Vision Pressing",
+  "short_name": "VisionPress",
+  "description": "Le pressing haut de gamme à Tabligbo - Services de nettoyage et pressing professionnel",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf9f6",
+  "theme_color": "#111111",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "fr-FR",
+  "categories": ["business", "lifestyle"],
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

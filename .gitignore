@@ -1,0 +1,4 @@
+.vercel
+.env.local
+supabase-setup.sql
+node_modules
